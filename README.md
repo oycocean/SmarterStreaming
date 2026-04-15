@@ -62,6 +62,7 @@
 |Windows平台|x86 debug/release, x64 debug/release |
 |Linux(含麒麟操作系统)|x86_64, aarch64 |
 |Android平台|armeabi-v7a, arm64-v8a, x86, x86_64|
+|鸿蒙NEXT| arm64-v8a, x86_64|
 |iOS平台|arm64|
 
 **Windows端**
@@ -130,6 +131,11 @@
 
 - [x] [**SEI扩展数据发送/接收SDK**](https://daniusdk.com/index.php/2018/07/10/%E5%A4%A7%E7%89%9B%E7%9B%B4%E6%92%ADsei%E6%89%A9%E5%B1%95%E6%95%B0%E6%8D%AE%E5%8F%91%E9%80%81-%E6%8E%A5%E6%94%B6sdk/) 支持推送端通过H.264 SEI信息扩展，实时传输文本/二进制数据信息(如实时字幕/时间戳/题目分发/公告广播等)，播放端做相应解析和回显；
 
+**HamonyOS鸿蒙NEXT**
+
+- [x] [**RTMP直播播放器SDK**](https://daniusdk.com/index.php/2018/12/12/%E5%A4%A7%E7%89%9B%E7%9B%B4%E6%92%ADrtmp%E6%92%AD%E6%94%BE%E5%99%A8sdk/) 业内首屈一指的RTMP超低延迟直播播放器SDK(**支持RTMP H.265扩展播放**)；
+
+- [x] [**RTSP直播播放器SDK**](https://daniusdk.com/index.php/2018/12/12/%E5%A4%A7%E7%89%9B%E7%9B%B4%E6%92%ADrtsp%E6%92%AD%E6%94%BE%E5%99%A8sdk/) 支持RTSP H.265播放及扩展录像、业内为数不多真正好用的RTSP播放器SDK;
 
 **iOS端**
 
